@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### I'm JRB a software engineer focused mainly on web development.
+### I'm Jrb You a software engineer focused mainly on web development.
 
 <br>
 
