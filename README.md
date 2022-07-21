@@ -10,9 +10,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
+
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1A6FB4.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![SCSS](https://img.shields.io/badge/SCSS-1A6FB4.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/VITE-759AD9.svg?&style=flat&logo=webpack&logoColor=white)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-EFD81D.svg?&style=flat&logo=javascript&logoColor=white)&nbsp;
