@@ -1,6 +1,10 @@
 ## Hi there 👋 
-### I'm Jrb You a software engineer focused mainly on web development.
+### A software engineer new to WEB3 focusing on SOLANA blockchain.
+Building digital trust and uniqueness with high speed
 
+<p align="center">
+<img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=022" />
+</p>
 <br>
 
 [![JRB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRB-y&theme=dark)](https://github.com/JRB-y)
