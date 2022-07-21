@@ -3,7 +3,7 @@
 Building digital trust and uniqueness with high speed
 
 <p align="center">
-<img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=022" />
+<img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=022" width="100" />
 </p>
 <br>
 
