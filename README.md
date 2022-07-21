@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### A software engineer new to WEB3 focusing on SOLANA blockchain.
+### A software engineer focusing on SOLANA blockchain.
 Building digital trust and uniqueness with high speed
 
 <p align="center">
@@ -11,7 +11,6 @@ Building digital trust and uniqueness with high speed
 <h3 align="left">Languages and Tools:</h3>
 
 <p>
-![SOLANA](
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1A6FB4.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![WEBPACK](https://img.shields.io/badge/WEBPACK-759AD9.svg?&style=flat&logo=webpack&logoColor=white)&nbsp;
