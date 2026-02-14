@@ -1,5 +1,11 @@
-# 🚀 Jrb You
 ### FULL-STACK ENGINEER
+
+     ██╗██████╗ ██████╗ 
+     ██║██╔══██╗██╔══██╗
+     ██║██████╔╝██████╔╝
+██   ██║██╔══██╗██╔══██╗
+╚█████╔╝██║  ██║██████╔╝
+ ╚════╝ ╚═╝  ╚═╝╚═════╝
 
 ## 🎯 Core Competencies
 
@@ -19,11 +25,10 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/jrb-youssef-2a9b56142)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/JRB-y)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:jrb.youssef@gmail.com)
-
+  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/jrb-youssef-2a9b56142)
+  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/JRB-y)
+  [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:jrb.youssef@gmail.com)
+  [<img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />](https://stackoverflow.com/users/9625755/jrb)
 </div>
 
 ---
