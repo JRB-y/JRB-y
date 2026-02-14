@@ -1,90 +1,129 @@
-# Hey there! 👋
+# Jean-Raphaël Bocquard
 
-```
- _____ ____  _     ___    _   _  _     
-|_   _/ __ \| |   / _ \  | \ | || |    
-  | || |  | | |  | | | | |  \| || |    
-  | || |__| | |__| |_| | | |\  || |___ 
-  |_| \____/|_____\___/  |_| \_||_____|
-```
+> **Full-Stack Engineer** | Solana Blockchain Specialist | Building trustless, high-speed applications
 
-**Full-stack engineer** building on **Solana** | Creating digital trust at light speed ⚡
-
-> Specializing in blockchain infrastructure, dApps, and high-performance web3 applications
+<img src="https://mathwallet.org/web/static/img/chain/solana_banner.jpg" alt="Solana" width="100%" height="200px" style="border-radius: 8px; object-fit: cover;" />
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🚀 What I Do
+
+I build **scalable web3 infrastructure** and **high-performance dApps** on Solana. Expertise in full-stack development with a focus on security, performance, and user experience.
+
+**Core Interests:**
+- 🔗 Blockchain infrastructure & smart contracts
+- ⚛️ Modern frontend architecture (React, Vue)
+- 🖥️ Backend systems & microservices (Node, NestJS)
+- ☁️ Cloud infrastructure (AWS, Docker, Kubernetes)
+- 🔐 Web3 protocols & DeFi applications
+
+---
+
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td width="33%">
+
+**Frontend**
+- React / Vue.js
+- TypeScript / JavaScript
+- Vite / Webpack
+- Tailwind CSS
+
+</td>
+<td width="33%">
+
+**Backend**
+- Node.js
+- NestJS
+- Express
+- GraphQL
+
+</td>
+<td width="33%">
+
+**Infrastructure**
+- AWS (EC2, S3, Lambda)
+- Docker & Kubernetes
+- CI/CD (GitHub Actions)
+- PostgreSQL / MongoDB
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+**Web3 & Blockchain**
+- Solana Programs (Rust)
+- Web3.js / Anchor
+- Smart Contract Development
+- DeFi Protocols
+
+</td>
+<td width="50%">
+
+**Tools & Practices**
+- Git / GitHub
+- Linux / macOS
+- REST & GraphQL APIs
+- Test-Driven Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Skills at a Glance
+
+```
+Frontend   ████████████████░░ 90%
+Backend    ███████████████░░░ 85%
+DevOps     ██████████░░░░░░░░ 65%
+Blockchain ███████████████░░░ 85%
+```
+
+---
+
+## 📌 Pinned Projects
 
 <div align="center">
 
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **Web3 & Blockchain**
-![Solana](https://img.shields.io/badge/-Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+[![Solana dApp](https://github-readme-stats.vercel.app/api/pin/?username=jrb&repo=solana-dapp&theme=tokyonight&hide_border=true)](https://github.com/jrb/solana-dapp)
+[![API Gateway](https://github-readme-stats.vercel.app/api/pin/?username=jrb&repo=api-gateway&theme=tokyonight&hide_border=true)](https://github.com/jrb/api-gateway)
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrb&theme=tokyonight&hide_border=true&count_private=true&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 **Featured Projects**
+## 🤝 Let's Connect
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **Solana dApp** | React + Web3.js | High-speed trading interface |
-| **API Gateway** | NestJS + GraphQL | Microservices orchestration |
-| **Infrastructure** | Docker + K8s | Scalable deployment pipeline |
+<div align="center">
 
----
+[**LinkedIn**](https://linkedin.com) · [**Twitter**](https://twitter.com) · [**Email**](mailto:hello@example.com) · [**Website**](https://example.com)
 
-## 📚 **Always Learning**
-
-- Advanced Rust for Solana programs
-- Kubernetes optimization & scaling
-- Smart contract security audits
-
----
-
-## 💬 **Let's Connect**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+</div>
 
 ---
 
 <div align="center">
 
-⭐ **If you find my work interesting, feel free to star my repos!** ⭐
+**Always open to collaborating on interesting web3 projects and innovations** 🚀
 
 </div>
