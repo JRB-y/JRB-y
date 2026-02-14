@@ -1,24 +1,12 @@
 <div align="center">
 
-# 🚀 Jean-Raphaël Bocquard
+# 🚀 Jrb Youssef
 
 ```
 █████████████████████████████████████████
-█ FULL-STACK ENGINEER | SOLANA BUILDER █
+█          FULL-STACK ENGINEER          █
 █████████████████████████████████████████
 ```
-
-**Building trustless infrastructure at light speed** ⚡
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a full-stack engineer passionate about **blockchain technology** and **high-performance systems**. Specialized in building scalable dApps on Solana with production-grade infrastructure.
-
-> "Code is poetry, but blockchain is art"
 
 ---
 
@@ -37,96 +25,23 @@ I'm a full-stack engineer passionate about **blockchain technology** and **high-
 
 ---
 
-## 📚 Tech Ecosystem
-
-<details open>
-<summary><b>🎨 Frontend Technologies</b></summary>
-
-- **Frameworks:** React, Vue.js, React Native
-- **Languages:** TypeScript, JavaScript
-- **Build Tools:** Vite, Webpack
-- **Styling:** Tailwind CSS, SCSS
-- **State Management:** Redux, Pinia, Context API
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Technologies</b></summary>
-
-- **Runtime:** Node.js
-- **Frameworks:** NestJS, Express
-- **APIs:** GraphQL, REST, WebSockets
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Message Queues:** RabbitMQ, Kafka
-
-</details>
-
-<details open>
-<summary><b>☁️ Infrastructure & DevOps</b></summary>
-
-- **Cloud:** AWS (EC2, S3, Lambda, RDS)
-- **Containerization:** Docker, Docker Compose
-- **Orchestration:** Kubernetes
-- **CI/CD:** GitHub Actions, GitLab CI
-- **Monitoring:** Prometheus, Grafana, ELK Stack
-
-</details>
-
-<details open>
-<summary><b>🔗 Web3 & Blockchain</b></summary>
-
-- **Networks:** Solana
-- **Languages:** Rust (Solana programs)
-- **Frameworks:** Anchor, Web3.js
-- **Smart Contracts:** Development, Testing, Deployment
-- **DeFi:** Protocol development, Integration
-
-</details>
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact)
-
-</div>
-
----
-
-## 🎓 Currently Learning
-
-- 📖 Advanced Rust for Solana program optimization
-- 🔐 Smart contract security audits & formal verification
-- 🚀 Kubernetes at scale & cloud-native architecture
-- 📡 Protocol design & P2P networking
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/your-profile)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />](https://twitter.com/your-handle)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/your-username)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/jrb-youssef-2a9b56142)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/JRB-y)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:jrb.youssef@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ If you find my work interesting, consider starring my repos! ⭐
 
 ```
 ┌─────────────────────────────────────┐
 │  Let's build something amazing! 🚀  │
 └─────────────────────────────────────┘
 ```
-
 </div>
