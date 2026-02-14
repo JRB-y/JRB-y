@@ -6,9 +6,7 @@
 ╚█████╔╝██║  ██║██████╔╝
  ╚════╝ ╚═╝  ╚═╝╚═════╝
 ```
-## 🎯 Core Competencies
 
-<div align="center">
 
 | Category | Skills |
 |----------|--------|
@@ -17,11 +15,7 @@
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088F0?style=flat-square&logo=github-actions&logoColor=white) |
 | **Web3** | ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white) |
 
-</div>
-
 ---
-
-## 🔗 Connect With Me
 
 <div align="center">
 
@@ -31,7 +25,6 @@
 [<img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />](https://stackoverflow.com/users/9625755/jrb)
 </div>
 
----
 
 <div align="center">
 
